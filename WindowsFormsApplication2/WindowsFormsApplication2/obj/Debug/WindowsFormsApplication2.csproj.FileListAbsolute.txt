@@ -1,0 +1,2 @@
+Z:\Work\Projects\PRFW\aaa\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+Z:\Work\Projects\PRFW\aaa\111\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
